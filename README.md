@@ -1,6 +1,6 @@
 # Book Store
 
-A Turkish book store application in C.
+A book store application in C.
 
 Things that can be done through menu;
 
@@ -9,4 +9,4 @@ Things that can be done through menu;
 - Adding, listing, searching books
 - Adding, listing, searching magazines
 - Adding, listing, searching newspapers
-- Going back to main menu
+- Going back in menu
